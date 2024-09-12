@@ -1,0 +1,4 @@
+go-oapi
+*.sum
+bin/
+api/gen.go
